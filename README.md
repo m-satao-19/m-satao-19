@@ -19,13 +19,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a CSE Masters student at University at Buffalo. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: Seeking Software Engineer roles and contribute to frontend and backend for building web applications.
 
+- :dart: Previously worked as a Software Engineer.
+
 - :robot: Machine Learning enthusiast.
 
-- :zap: In my free time, I solve problems on Leetcode, read books :book: and play guitar :guitar:.
+- :zap: In my free time, I solve problems on Leetcode :computer:, read books :book: and play guitar :guitar:.
 
 - :mailbox:Reach out to me on my LinkedIn
 
